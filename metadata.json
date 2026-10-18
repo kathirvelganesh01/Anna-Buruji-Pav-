@@ -1,0 +1,6 @@
+{
+  "name": "Anna Bhurji Pav",
+  "description": "Interactive street food QR ordering, live order tracking, UPI payments, and real-time manager stock control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

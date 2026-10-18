@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Steam waves -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,30 C41,35 47,40 44,45" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9800"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,26 C51,32 57,38 54,44" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF5722"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M64,30 C61,35 67,40 64,45" />
+
+    <!-- Two Pav Buns (golden rounded pillows) -->
+    <!-- Left Pav -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M34,44 C34,41 40,39 48,39 C52,39 53,40 53,44 L53,52 L34,52 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M35,45 C35,42.5 40,40.5 47,40.5 C50.5,40.5 52,41.5 52,45 L52,48 L35,48 Z" />
+
+    <!-- Right Pav -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M55,44 C55,40 56,39 60,39 C68,39 74,41 74,44 L74,52 L55,52 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M56,45 C56,41.5 57.5,40.5 61,40.5 C68,40.5 73,42.5 73,45 L73,48 L56,48 Z" />
+
+    <!-- Tawa / Hot Skillet Base -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M24,62 C24,74 38,80 54,80 C70,80 84,74 84,62 L24,62 Z" />
+    <!-- Tawa Handle -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M83,64 L96,69 C97.5,69.5 98,71.5 97,73 C96,74.5 94,74.5 92.5,74 L82,69 Z" />
+
+    <!-- Sizzling Bhurji Scramble (rich golden egg scramble with spices) -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M26,62 C26,58 35,53 54,53 C73,53 82,58 82,62 C82,66 73,70 54,70 C35,70 26,66 26,62 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M30,61 C32,56 42,54 54,54 C66,54 76,56 78,61 C76,64 66,67 54,67 C42,67 32,64 30,61 Z" />
+
+    <!-- Spicy Bits & Coriander garnishes -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M42,59 A2,2 0 1,1 41.9,59 Z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M60,63 A2,2 0 1,1 59.9,63 Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M50,60 A1.8,1.8 0 1,1 49.9,60 Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M68,59 A1.8,1.8 0 1,1 67.9,59 Z" />
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M52,64 A1.5,1.5 0 1,1 51.9,64 Z" />
+
+    <!-- Chef Hat Badge accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,72 C50,72 48,74 48,75 L60,75 C60,74 58,72 54,72 Z" />
+</vector>
